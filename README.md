@@ -1,24 +1,23 @@
-### AI Threat Detector
+# AI Threat Detector
 
 
 
-\## Overview
+## Overview
 
 AI Threat Detector is a real-time, AI-powered network monitoring tool that captures live network traffic, detects anomalies, and displays them on a live web dashboard. It simulates a mini Security Operations Center (SOC), combining cybersecurity, machine learning, and automation.
 
 
+## Features
 
-\## Features
+**Live Packet Capture:\*\* Uses Scapy to capture live network packets including IPs, ports, protocol, and packet length.
 
-\- \*\*Live Packet Capture:\*\* Uses Scapy to capture live network packets including IPs, ports, protocol, and packet length.
+**Anomaly Detection:\*\* Detects suspicious traffic in real-time using an Isolation Forest model.
 
-\- \*\*Anomaly Detection:\*\* Detects suspicious traffic in real-time using an Isolation Forest model.
+**Console Alerts:\*\* Prints alerts for suspicious packets as they are captured.
 
-\- \*\*Console Alerts:\*\* Prints alerts for suspicious packets as they are captured.
+**Live Dashboard:\*\* Flask-based dashboard that visualizes all captured packets and highlights anomalies.
 
-\- \*\*Live Dashboard:\*\* Flask-based dashboard that visualizes all captured packets and highlights anomalies.
-
-\- \*\*Real-Time Detection:\*\* Suspicious packets are immediately flagged in both console and dashboard.
+**Real-Time Detection:\*\* Suspicious packets are immediately flagged in both console and dashboard.
 
 
 
@@ -33,6 +32,7 @@ AI Threat Detector is a real-time, AI-powered network monitoring tool that captu
 \- \*\*scikit-learn\*\* – Isolation Forest for anomaly detection
 
 \- \*\*Flask\*\* – real-time web dashboard
+
 
 
 
