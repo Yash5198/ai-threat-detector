@@ -21,17 +21,18 @@ AI Threat Detector is a real-time, AI-powered network monitoring tool that captu
 
 
 
-\## Technologies
+## Technologies
 
-\- \*\*Python 3\*\*
+**Python 3**
 
-\- \*\*Scapy\*\* – for network packet capture
+**Scapy** – for network packet capture
 
-\- \*\*pandas\*\* – for data handling and feature extraction
+**pandas** – for data handling and feature extraction
 
-\- \*\*scikit-learn\*\* – Isolation Forest for anomaly detection
+**scikit-learn** – Isolation Forest for anomaly detection
 
-\- \*\*Flask\*\* – real-time web dashboard
+**Flask** – real-time web dashboard
+
 
 
 
