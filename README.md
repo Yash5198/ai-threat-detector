@@ -1,4 +1,4 @@
-#AI Threat Detector
+### AI Threat Detector
 
 
 
@@ -33,6 +33,7 @@ AI Threat Detector is a real-time, AI-powered network monitoring tool that captu
 \- \*\*scikit-learn\*\* – Isolation Forest for anomaly detection
 
 \- \*\*Flask\*\* – real-time web dashboard
+
 
 
 
